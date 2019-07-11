@@ -7,7 +7,9 @@ This tooling is very much in an 'alpha' state.  There are bad practices, poor de
 ## Files:
 
 README.md - This file
+
 se.pl     - The actual CLI utility
+
 se_sqlite_import.py - a Python script from StackExchange, modified to do what's required.
 
 ## TODO:
